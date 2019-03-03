@@ -1,4 +1,4 @@
-# Usefull scripts
+# Useful scripts
 
 ## x2go
 
