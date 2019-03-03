@@ -2,4 +2,5 @@
 
 ## x2go
 
-Scripts to install x2go server easily.
+Install x2go and xfce4 on debian 9
+curl -o- https://raw.githubusercontent.com/abecadel/useful-scripts/master/install_x2goxfce_debian9.sh | bash
