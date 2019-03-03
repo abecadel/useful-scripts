@@ -1,4 +1,5 @@
 #!/bin/bash
+#Install x2go & xfce4 on debian9
 
 DEBIAN_FRONTEND=noninteractive apt-get install -y xfce4 task-xfce-desktop dirmngr
 apt-key adv --recv-keys --keyserver keys.gnupg.net E1F958385BFE2B6E
