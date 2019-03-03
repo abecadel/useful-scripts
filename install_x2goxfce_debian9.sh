@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt-get install -y xfce4 task-xfce-desktop dirmngr
+DEBIAN_FRONTEND=noninteractive apt-get install -y xfce4 task-xfce-desktop dirmngr
 apt-key adv --recv-keys --keyserver keys.gnupg.net E1F958385BFE2B6E
 
 cat << EOF > /etc/apt/sources.list.d/x2go.list
