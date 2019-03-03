@@ -3,7 +3,7 @@
 ## x2go
 
 Install x2go and xfce4 on debian 9:
-'''
+```
 sudo su
 curl -o- https://raw.githubusercontent.com/abecadel/useful-scripts/master/install_x2goxfce_debian9.sh | bash
-'''
+```
